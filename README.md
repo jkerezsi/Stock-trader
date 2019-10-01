@@ -2,6 +2,14 @@
 
 > A Vue.js project
 
+## Details
+Create a stock trader app with Vue Js. Use following features:
+- vuex
+- bootstrap
+- vue-router
+- vue-resource
+- Firebase
+
 ## Build Setup
 
 ``` bash
